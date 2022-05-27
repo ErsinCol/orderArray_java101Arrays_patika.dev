@@ -1,1 +1,1 @@
-# orderArray_java101Arrays_patika.dev
+Java dilinde, dizideki elemanları küçükten büyüğe sıralayan programı yazınız. Dizinin boyutunu ve dizinin elemanlarını kullanıcıdan alınız.
